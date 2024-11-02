@@ -1,6 +1,6 @@
 # Neuro Dominance Tracker
 
-**A Software for Identification, Localization, and Characterization of Dominant Rhythm in Neural Time Series (e.g., EEG, LFP)**
+**A Software for Identification and Characterization of Dominant Rhythm in Neural Time Series (e.g., EEG, LFP)**
 
 ## Software Contributions
 Nooshin Bahador: Conceptualization, Methodology, Data Analysis, Writing, Coding, Software Development, User Interface Design (nooshin.bah@gmail.com)
