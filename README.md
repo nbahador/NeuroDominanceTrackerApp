@@ -52,7 +52,19 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 ### 7. Save Features
 - Click the button to save the features as an Excel file.
 
-### Sample EDF file were obtained from "Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2016). The raw EEG data, 4 files (EEG_A to D), in European data format (.edf) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.160118". Available at https://zenodo.org/records/160118.
 
-### The FieldTrip toolbox was obtained from "Robert Oostenveld, Pascal Fries, Eric Maris, and Jan-Mathijs Schoffelen. FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data. Computational Intelligence and Neuroscience, 2011; 2011:156869". Available at https://www.fieldtriptoolbox.org/.
+### Supplementary Files
+You can access the supplementary files for this project at the following link:  
+[Link to Supplementary Files](https://github.com/nbahador/NeuroDominanceTrackerApp/blob/main/Supplementary%20Files/LinkToSupplementaryFiles.txt)
+
+### Sample EEG Data
+The sample EDF (European Data Format) files used in this project were obtained from the following publication:  
+**Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2016).** *The raw EEG data, 4 files (EEG_A to D), in European data format (.edf) [Data set].* Zenodo.  
+Available at: [https://doi.org/10.5281/zenodo.160118](https://doi.org/10.5281/zenodo.160118)  
+Direct access to the data can be found here: [Zenodo Record](https://zenodo.org/records/160118).
+
+### FieldTrip Toolbox
+This project utilizes the FieldTrip toolbox for advanced analysis of EEG data.  
+**Reference:** Oostenveld, R., Fries, P., Maris, E., & Schoffelen, J.-M. (2011). *FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.* Computational Intelligence and Neuroscience, 2011, 156869.  
+You can access the FieldTrip toolbox here: [https://www.fieldtriptoolbox.org/](https://www.fieldtriptoolbox.org/).
 
