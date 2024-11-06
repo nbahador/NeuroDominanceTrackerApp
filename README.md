@@ -55,7 +55,7 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 
 ### Supplementary Files
 You can access the supplementary files for this project at the following link:  
-[Link to Supplementary Files](https://github.com/nbahador/NeuroDominanceTrackerApp/blob/main/Supplementary%20Files/LinkToSupplementaryFiles.txt)
+[Link to Supplementary Files]([https://github.com/nbahador/NeuroDominanceTrackerApp/blob/main/Supplementary%20Files/LinkToSupplementaryFiles.txt](https://drive.google.com/drive/folders/1nGNilfRJpRDW0qyWoCaRk4ggA7oqxazs?usp=sharing))
 
 ### Sample EEG Data
 The sample EDF (European Data Format) files used in this project were obtained from the following publication:  
