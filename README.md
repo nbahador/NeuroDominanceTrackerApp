@@ -64,7 +64,7 @@ Available at: [https://doi.org/10.5281/zenodo.160118](https://doi.org/10.5281/ze
 Direct access to the data can be found here: [Zenodo Record](https://zenodo.org/records/160118).
 
 ### FieldTrip Toolbox
-This project utilizes the FieldTrip toolbox for advanced analysis of EEG data.  
+This project leverages the FieldTrip toolbox to support different file formats, including FIF, EDF, and BDF.  
 **Reference:** Oostenveld, R., Fries, P., Maris, E., & Schoffelen, J.-M. (2011). *FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.* Computational Intelligence and Neuroscience, 2011, 156869.  
 You can access the FieldTrip toolbox here: [https://www.fieldtriptoolbox.org/](https://www.fieldtriptoolbox.org/).
 
