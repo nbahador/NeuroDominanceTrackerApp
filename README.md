@@ -55,7 +55,7 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 
 ### Supplementary Files
 You can access the supplementary files for this project at the following link:  
-[Link to Supplementary Files]([https://github.com/nbahador/NeuroDominanceTrackerApp/blob/main/Supplementary%20Files/LinkToSupplementaryFiles.txt](https://drive.google.com/drive/folders/1nGNilfRJpRDW0qyWoCaRk4ggA7oqxazs?usp=sharing))
+[Link to Supplementary Files](https://drive.google.com/drive/folders/1nGNilfRJpRDW0qyWoCaRk4ggA7oqxazs?usp=sharing)
 
 ### Sample EEG Data
 The sample EDF (European Data Format) files used in this project were obtained from the following publication:  
@@ -67,4 +67,5 @@ Direct access to the data can be found here: [Zenodo Record](https://zenodo.org/
 This project utilizes the FieldTrip toolbox for advanced analysis of EEG data.  
 **Reference:** Oostenveld, R., Fries, P., Maris, E., & Schoffelen, J.-M. (2011). *FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.* Computational Intelligence and Neuroscience, 2011, 156869.  
 You can access the FieldTrip toolbox here: [https://www.fieldtriptoolbox.org/](https://www.fieldtriptoolbox.org/).
+
 
