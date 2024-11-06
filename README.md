@@ -25,8 +25,9 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 - Click on the "Run" button to open the user interface.
 
 ### 2. Upload Your File
-- Upload your file.
-- Enter the sampling frequency (e.g., 5000 Hz).
+-  Place the "fieldtrip-master" folder and the "abfload.m" script in the same directory as the NeuroDominanceTracker GUI executable.
+-  Upload your file.
+-  Enter the sampling frequency (e.g., 5000 Hz).
 
 ### 3. Perform Analysis
 - Click on the "Perform Analysis" button.
@@ -50,4 +51,8 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 
 ### 7. Save Features
 - Click the button to save the features as an Excel file.
+
+### Sample EDF file were obtained from "Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2016). The raw EEG data, 4 files (EEG_A to D), in European data format (.edf) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.160118". Available at https://zenodo.org/records/160118.
+
+### The FieldTrip toolbox was obtained from "Robert Oostenveld, Pascal Fries, Eric Maris, and Jan-Mathijs Schoffelen. FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data. Computational Intelligence and Neuroscience, 2011; 2011:156869". Available at https://www.fieldtriptoolbox.org/.
 
