@@ -4,7 +4,7 @@
 
 ## [Visit the Website](https://nbahador.github.io/NeuroDominanceTracker-Tool/)
 
-<iframe src="https://nbahador.github.io/NeuroDominanceTracker-Tool/" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
+<img src="https://raw.githubusercontent.com/nbahador/NeuroDominanceTracker-Tool/main/assets/img/frontpage.jpg" alt="Neuro Dominance Tracker Front Page">
 
 ## Citation
 
