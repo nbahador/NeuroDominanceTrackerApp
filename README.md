@@ -2,21 +2,15 @@
 
 **A Software for Identification and Characterization of Dominant Rhythm in Neural Time Series (e.g., EEG, LFP)**
 
-## Software Contributions
-Nooshin Bahador: Conceptualization, Methodology, Data Analysis, Writing, Coding, Software Development, User Interface Design (nooshin.bah@gmail.com)
+## [Visit the Website](https://nbahador.github.io/NeuroDominanceTracker-Tool/)
 
-Liang Zhang: Conceptualization, Data Collection, Validation, Reviewing (liang.zhang@uhn.ca)
-
-Frances Skinner: Conceptualization, Funding Acquisition, Supervision, Validation (frances.skinner@gmail.com)
-
+<iframe src="https://nbahador.github.io/NeuroDominanceTracker-Tool/" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 
 ## Citation
 
 If you use this software in your research, please cite it as follows:
 
-N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A Software for Identification and Characterization of Theta Rhythms in the Hippocampus.
-
-
+> N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A Software for Identification and Characterization of Theta Rhythms in the Hippocampus.
 
 ## Step-by-Step Instructions for Analyzing Data using MATLAB App
 
@@ -25,9 +19,9 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 - Click on the "Run" button to open the user interface.
 
 ### 2. Upload Your File
--  Place the "fieldtrip-master" folder and the "abfload.m" script in the same directory as the NeuroDominanceTracker GUI executable.
--  Upload your file.
--  Enter the sampling frequency (e.g., 5000 Hz).
+- Place the "fieldtrip-master" folder and the "abfload.m" script in the same directory as the NeuroDominanceTracker GUI executable.
+- Upload your file.
+- Enter the sampling frequency (e.g., 5000 Hz).
 
 ### 3. Perform Analysis
 - Click on the "Perform Analysis" button.
@@ -52,20 +46,18 @@ N. Bahador, S. Sengupta, J. Saha, M. Lankarany, L. Zhang, F. Skinner (2024). A S
 ### 7. Save Features
 - Click the button to save the features as an Excel file.
 
+## Sample EEG Data
 
-### Supplementary Files
-You can access the supplementary files for this project at the following link:  
-[Link to Supplementary Files](https://drive.google.com/drive/folders/1nGNilfRJpRDW0qyWoCaRk4ggA7oqxazs?usp=sharing)
-
-### Sample EEG Data
 The sample EDF (European Data Format) files used in this project were obtained from the following publication:  
-**Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2016).** *The raw EEG data, 4 files (EEG_A to D), in European data format (.edf) [Data set].* Zenodo.  
+
+**Brown, L. A., Hasan, S., Foster, R. G., & Peirson, S. N. (2016).** _The raw EEG data, 4 files (EEG_A to D), in European data format (.edf) [Data set]._ Zenodo.  
 Available at: [https://doi.org/10.5281/zenodo.160118](https://doi.org/10.5281/zenodo.160118)  
 Direct access to the data can be found here: [Zenodo Record](https://zenodo.org/records/160118).
 
-### FieldTrip Toolbox
-This project leverages the FieldTrip toolbox to support different file formats, including FIF, EDF, and BDF.  
-**Reference:** Oostenveld, R., Fries, P., Maris, E., & Schoffelen, J.-M. (2011). *FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.* Computational Intelligence and Neuroscience, 2011, 156869.  
+## FieldTrip Toolbox
+
+This project leverages the FieldTrip toolbox to support different file formats, including FIF, EDF, and BDF.
+
+**Reference:**  
+Oostenveld, R., Fries, P., Maris, E., & Schoffelen, J.-M. (2011). *FieldTrip: Open Source Software for Advanced Analysis of MEG, EEG, and Invasive Electrophysiological Data.* Computational Intelligence and Neuroscience, 2011, 156869.  
 You can access the FieldTrip toolbox here: [https://www.fieldtriptoolbox.org/](https://www.fieldtriptoolbox.org/).
-
-
